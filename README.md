@@ -106,24 +106,6 @@
 - ✅ 支持多种运行方式：工作流、命令行、GUI 软件、Docker(amd64/arm64/arm v7)
 - ✨ 更多功能请见[配置参数](#配置)
 
-## 最新结果
-
-- 接口源：
-
-```bash
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
-```
-
-```bash
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt
-```
-
-- 数据源：
-
-```bash
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/source.json
-```
-
 ## 配置
 
 | 配置项                    | 描述                                                                                        | 默认值                                     |
